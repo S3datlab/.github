@@ -22,7 +22,7 @@
 
 <h2 align="center">Products</h2>
 
-<a href="https://s3dat.com/products/s3-browser"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-s3-browser.png" alt="S3 Browser card"></a>
+<a href="https://s3dat.com/products/s3-browser"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-s3-browser-v2.png" alt="S3 Browser card"></a>
 
 ### [S3 Browser](https://s3dat.com/products/s3-browser)
 
@@ -34,7 +34,7 @@ A cinematic Home brings saved sites and recorded viewing together, and Continue 
 
 <br clear="left">
 
-<a href="https://s3dat.com/products/s3-brain"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-s3-brain.png" alt="S3 Brain card"></a>
+<a href="https://s3dat.com/products/s3-brain"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-s3-brain-v2.png" alt="S3 Brain card"></a>
 
 ### [S3 Brain](https://s3dat.com/products/s3-brain)
 
@@ -46,7 +46,7 @@ S3 Brain keeps proposals, decisions and test results apart, each linked to the c
 
 <br clear="right">
 
-<a href="https://s3dat.com/products/clidna"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-clidna.png" alt="Clidna card"></a>
+<a href="https://s3dat.com/products/clidna"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-clidna-v2.png" alt="Clidna card"></a>
 
 ### [Clidna](https://s3dat.com/products/clidna)
 
@@ -58,7 +58,7 @@ Her Memory Notebook shows every memory with its source in something you actually
 
 <br clear="left">
 
-<a href="https://s3dat.com/products/qrestige"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-qrestige.png" alt="QRESTIGE card"></a>
+<a href="https://s3dat.com/products/qrestige"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-qrestige-v2.png" alt="QRESTIGE card"></a>
 
 ### [QRESTIGE](https://s3dat.com/products/qrestige)
 
@@ -70,7 +70,7 @@ QRESTIGE connects the floor, kitchen, bar and manager in one operation, with a v
 
 <br clear="right">
 
-<a href="https://s3dat.com/products/liftjab"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-liftjab.png" alt="LIFTJAB card"></a>
+<a href="https://s3dat.com/products/liftjab"><img align="left" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-liftjab-v2.png" alt="LIFTJAB card"></a>
 
 ### [LIFTJAB](https://s3dat.com/products/liftjab)
 
@@ -82,7 +82,7 @@ Plan routines, log sets with timers and keep your full history. The work you log
 
 <br clear="left">
 
-<a href="https://s3dat.com/products/shadofine"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-shadofine.png" alt="SHADOFINE card"></a>
+<a href="https://s3dat.com/products/shadofine"><img align="right" width="300" src="https://raw.githubusercontent.com/S3datlab/.github/main/profile/assets/card-shadofine-v2.png" alt="SHADOFINE card"></a>
 
 ### [SHADOFINE](https://s3dat.com/products/shadofine)
 
