@@ -102,6 +102,11 @@ SHADOFINE explores how a brief becomes a consistent visual family through intent
 </picture>
 
 <p align="center">
+  <b>How we build:</b> Claude Code plans every product, parallel agent lanes build it, independent review and tests verify each change,<br>
+  and every decision is kept with its source. That loop is how a small studio ships six products, and it became S3 Brain.
+</p>
+
+<p align="center">
   <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=262624" alt="Built with Claude Code"></a>
 </p>
 
